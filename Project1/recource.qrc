@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>User Selection/02a.jpg</file>
+        <file>User Selection/109.png</file>
+        <file>User Selection/150xNxmembers_large.png.pagespeed.ic.hoZ-NYiu1b.png</file>
+        <file>User Selection/118931-matte-grey-square-icon-business-key7.png</file>
+        <file>User Selection/black-login-icon--0.png</file>
+        <file>User Selection/bulk-order-icon-1.png</file>
+        <file>User Selection/close_red.png</file>
+        <file>User Selection/date-icon.png</file>
+        <file>User Selection/file_add.png</file>
+        <file>User Selection/icon_ordersmod.png</file>
+        <file>User Selection/icon-person-add-128.png</file>
+        <file>User Selection/info_512pxGREY.png</file>
+        <file>User Selection/open_file_document-128.png</file>
+        <file>User Selection/p170vftkpc10an1fj11qc8283qo9-details.jpg</file>
+        <file>User Selection/receipt_printer.png</file>
+        <file>User Selection/sales-report-icon.png</file>
+        <file>User Selection/search-512.png</file>
+        <file>User Selection/search-good.png</file>
+        <file>User Selection/Shopping-basket-add-icon.png</file>
+        <file>User Selection/user_information_man_male_profile_account-512.png</file>
+        <file>User Selection/user_remove_man_male_profile_account_person-512.png</file>
+        <file>User Selection/user-login-icon-14.png</file>
+        <file>User Selection/Win8BackGround-303030.png</file>
+    </qresource>
+</RCC>
